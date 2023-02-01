@@ -6,5 +6,5 @@
 
 4- [**What is Identity & Access Management(IAM)**](https://medium.com/cloudnloud/iam-identity-access-management-5b86e18216dd)
 
-5- **Creating a Static website with S3**(https://medium.com/cloudnloud/creating-a-static-website-with-s3-bfabe9069a42)
+5- [**Creating a Static website with S3**](https://medium.com/cloudnloud/creating-a-static-website-with-s3-bfabe9069a42)
 
